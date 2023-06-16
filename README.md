@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Miles (Selim's spelled backwards which I use for foreign people)</h1>
+<h1 align="center">Hi 👋, I'm Selim</h1>
 <h3 align="center">A passionate fullstack developer. An old self-taught Unity game developer</h3>
 
 - 🌱 I’m currently learning **React.js & Backend**
