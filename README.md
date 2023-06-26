@@ -5,13 +5,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MilesSouth](https://github.com/MilesSouth)
 
-- 📝 I sometimes post short short writings on [https://www.linkedin.com/in/selimbarisguney/](https://www.linkedin.com/in/selimbarisguney/)
+- 📝 I sometimes post short writings on [https://www.linkedin.com/in/selimbarisguney/](https://www.linkedin.com/in/selimbarisguney/)
 
 - 📫 How to reach me **selimbarisguney@gmail.com**
 
 - 📄 Know about my experiences [resume will come over here...]
 
-- ⚡ Fun fact **Being a developer is the only great thing that I could choose in my entire life. I am really into with learning new foreign languages. Chinese or Polish I will be learning when I'm done with my bootcamp.**
+- ⚡ Fun fact **Being a developer is the only great thing that I could choose in my entire life. I am really into with learning new foreign languages (Programming languages included). Chinese or Polish I will be learning when I'm done with my bootcamp.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
