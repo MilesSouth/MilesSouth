@@ -28,6 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=milessouth&show_icons=true&locale=en&layout=compact" alt="milessouth" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milessouth&show_icons=true&locale=en" alt="milessouth" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milessouth&" alt="milessouth" /></p>
+
+
