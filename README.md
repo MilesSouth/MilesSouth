@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [Selim Güney Resume](https://drive.google.com/file/d/1HbzSidTGTOkXByI2rAQ0qIp7MmU1fshI/view?usp=sharing)
 
-- ⚡ Fun fact **Being a developer is the only great thing that I could choose in my entire life. I am really into with learning new foreign languages (Programming languages included). I will be learning Chinese or Polish when I'm done with my bootcamp.**
+- ⚡ Fun fact **Being a developer is the only great thing that I could choose in my entire life. I am really into with learning new foreign languages (Programming languages included).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
