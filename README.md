@@ -11,8 +11,6 @@
 
 - 📄 Know about my experiences [Selim Güney Resume](https://drive.google.com/file/d/1HbzSidTGTOkXByI2rAQ0qIp7MmU1fshI/view?usp=sharing)
 
-- ⚡ Fun fact **Being a developer is the only great thing that I could choose in my entire life. I am really into with learning new foreign languages (Programming languages included).**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/semsll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="semsll" height="30" width="40" /></a>
