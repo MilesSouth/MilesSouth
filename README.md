@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **selimbarisguney@gmail.com**
 
-- 📄 Know about my experiences [Selim Güney Resume](https://drive.google.com/file/d/1HbzSidTGTOkXByI2rAQ0qIp7MmU1fshI/view?usp=sharing)
+- 📄 Know about my experiences [Selim Güney Resume](https://drive.google.com/file/d/1itbSeuKgSOr4Ua22RL7J5JDyY0-lgzkm/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
