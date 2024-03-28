@@ -3,8 +3,6 @@
 
 - 🌱 **Swift & React.js & Backend** Developer
 
-- 👨‍💻 All of my projects are available at [https://github.com/MilesSouth](https://github.com/MilesSouth)
-
 - 📝 My LinkedIn [https://www.linkedin.com/in/selimbarisguney/](https://www.linkedin.com/in/selimbarisguney/)
 
 - 📫 How to reach me **selimbarisguney@gmail.com**
