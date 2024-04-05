@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **selimbarisguney@gmail.com**
 
-- 📄 Know about my experiences [Selim Güney Resume](https://drive.google.com/file/d/1itbSeuKgSOr4Ua22RL7J5JDyY0-lgzkm/view?usp=drive_link)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/semsll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="semsll" height="30" width="40" /></a>
