@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Selim</h1>
-<h3 align="center">A passionate fullstack developer. An old self-taught Unity game developer</h3>
 
 - 🌱 **Python & Web** Developer
 
